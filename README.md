@@ -34,9 +34,6 @@ I've tried to include groups that are currently active, i.e. upcoming events.
 </ul>
 
 
-## Meet-up Groups
-
-
 ## Code Fragments
 
 

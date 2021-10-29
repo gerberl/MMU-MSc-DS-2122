@@ -1,6 +1,6 @@
 # 6G7V0026 Principles of Data Science 21/22
 
-Shared repository of resources, data, articles, good practice, recommendations, and so on, for all those taking part in 6G7V0026 21/22.
+Shared repository of resources, data, articles, good practice, recommendations, and so on, for all those taking part in MSc Data Science 21/22 at MMU.
 
 
 ## Podcasts

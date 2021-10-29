@@ -9,7 +9,7 @@ Shared repository of resources, data, articles, good practice, recommendations, 
 ## Resources (papers)
 
 
-## Talks (Videos, Slides)
+## Talks
 
 
 ## Podcasts

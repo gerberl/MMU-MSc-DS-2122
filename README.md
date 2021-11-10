@@ -3,6 +3,12 @@
 Shared repository of resources, data, articles, good practice, recommendations, and so on, for all those taking part in MSc Data Science 21/22 at MMU.
 
 ## Resources by topic
+<ul>
+ <li><a href="https://www.youtube.com/watch?v=inN8seMm7UI">Introduction to Google Colab</a></li>
+ <li><a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Overview of Collaboratory Features</a></li>
+ <li><a href="https://colab.research.google.com/notebooks/markdown_guide.ipynb">Markdown Guide</a></li>
+</ul>
+
 ### Computer science
 * [CS50x](https://cs50.harvard.edu/x/2021/) Harvard's introduction to computer science free online course; this is the exact same module they teach at Harvard, fantastic resource for filling in gaps in basic programming concepts.
 
@@ -27,37 +33,44 @@ Shared repository of resources, data, articles, good practice, recommendations, 
 
 ## Talks
 <ul>
- <li>Careers in Statistics: Female experiences of a career in data - https://www.rss.org.uk/training-events/events/careers-in-statistics-female-experiences-of-a-care/#eventoverview, Monday, November, 8th, 12pm - 1pm GMT</li>
-  <li>DataCamp webinar - Live code-along: How a data science portfolio can help you land your dream job - https://www.datacamp.com/live/lca-portfolio-via-workspace - 
-Monday, November, 8th, 4pm - 5:15pm GMT</li>
+ <li><a href="https://www.rss.org.uk/training-events/events/careers-in-statistics-female-experiences-of-a-care/#eventoverview">Careers in Statistics: Female experiences of a career in data</a> - Monday, November, 8th, 12pm - 1pm GMT</li>
+  <li><a href="https://www.datacamp.com/live/lca-portfolio-via-workspace">DataCamp webinar - Live code-along: How a data science portfolio can help you land your dream job</a> - Monday, November, 8th, 4pm - 5:15pm GMT <a href="https://www.youtube.com/watch?v=7_VIjcFKHZo"><b>Recording of the session</a></b></li>
   </ul>
 
 ## Podcasts
-
+<ul>
+ <li><a href="https://www.youtube.com/c/lexfridman">Lex Fridman's AI Podcast</a></li>
+ <li><a href="https://twimlai.com/shows/">The TWIML AI Podcast</a></li>
+ <li><a href="https://pythonbytes.fm/">Python Bytes</a></li>
+ <li><a href="https://talkpython.fm/">Talk Python to Me</a></li>
+</ul>
 
 ## Newsletters
 
 * [KDD Nuggets](https://www.kdnuggets.com/)
-
+* <a href="https://www.oreilly.com/emails/newsletters/">O'Reilly Data and AI Newsletter</a>
+* <a href="https://thegradientpub.substack.com/">The Gradient</a>
+* <a href="https://read.deeplearning.ai/the-batch/">The Batch</a>
+* <a href="https://gradientflow.substack.com/subscribe">Gradient Flow</a>
+* <a href="https://www.quantamagazine.org/">Quanta Magazine</a>
 
 ## Twitter Accounts
 
 * [Sebastian Raschka @rasbt](https://twitter.com/rasbt?s=20): "Author of the 'Python Machine Learning' book. Tweet about Python, deep learning research, open source. Asst Prof of Statistics @UWMadison. Opinions are my own."
-
+* <a href="https://twitter.com/spatialthoughts">Ujaval Gandhi @spatialthoughts</a>: "Creating open learning resources for #QGIS, #Python and #EarthEngine | Founder @ Spatial Thoughts Academy | Ex-Google | DMs open for technical help/questions."
 
 ## General YouTube Accounts and Channels
 <ul>
- <li>GeostatsGuy - https://www.youtube.com/c/GeostatsGuyLectures - may be useful for those with a physical sciences background but he's also got some good general ML and DS tutorials</li>
- 
-  </ul>
+ <li><a href="https://www.youtube.com/c/GeostatsGuyLectures">GeostatsGuy</a> - may be useful for those with a physical sciences background but he's also got some good general ML and DS tutorials</li>
+</ul>
 
 ## Meet-up Groups
 I've tried to include groups that are currently active, i.e. groups with upcoming events.
 
 <ul>
-  <li>Data Science Festival - Manchester - https://www.meetup.com/Data-Science-Festival-Manchester/ - a month of free virtual events starting Nov 1st 2021</li>
-  <li>Big Data Manchester - https://www.meetup.com/BigDataManchester/ - for anyone interested in Big Data</li>
-  <li>MiniHack 13 - https://www.meetup.com/mini-hack/events/280072661 - a monthly meetup where teams of between 3 and 6 people compete to produce the best solution to a problem</li>
+  <li><a href="https://www.meetup.com/Data-Science-Festival-Manchester/">Data Science Festival - Manchester</a> - a month of free virtual events starting Nov 1st 2021</li>
+  <li><a href="https://www.meetup.com/BigDataManchester/">Big Data Manchester</a> - for anyone interested in Big Data</li>
+  <li><a href="https://www.meetup.com/mini-hack/events/280072661">MiniHack 13</a> - a monthly meetup where teams of between 3 and 6 people compete to produce the best solution to a problem</li>
 </ul>
 
 

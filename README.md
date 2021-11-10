@@ -2,12 +2,26 @@
 
 Shared repository of resources, data, articles, good practice, recommendations, and so on, for all those taking part in MSc Data Science 21/22 at MMU.
 
+## Resources by topic
+### Computer science
+* [CS50x](https://cs50.harvard.edu/x/2021/) Harvard's introduction to computer science free online course; this is the exact same module they teach at Harvard, fantastic resource for filling in gaps in basic programming concepts.
 
-## Resources (books, tutorials)
+### Maths & statistics
+* [StatQuest](https://www.youtube.com/c/joshstarmer/playlists) - statistics YouTube channel
+* [3Blue1Brown](https://www.3blue1brown.com/#lessons) - maths and probability videos
+* [Statistics101](https://www.youtube.com/c/BrandonFoltz/playlists?view=50&sort=dd&shelf_id=3) - another YouTube statistics channel with easy to understand explanations (older)
+* [Khan Academy](https://www.khanacademy.org/) - interctive & comprehensive maths courses
 
+### Exploratory data analysis
+* [Introduction to Exploratory Data Analysis](https://github.com/sesise0307/pydata2021-eda) - series of notebooks with step by step introduction to exploratory data analysis from PyData Global 2021
 
-## Resources (papers)
+### Data visualisation
+* [Financial Times' Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/blob/main/visual-vocabulary/FT4schools_RGS.pdf) also [easier to read format](https://ft-interactive.github.io/visual-vocabulary/) shows types of graphs split into categories by meaning.
+* [BBC Visual and Data Journalism Cookbook](https://bbc.github.io/rcookbook/#how_to_create_bbc_style_graphics) and [Medium article](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) - how to create BBC-level graphs in R
 
+### Machine learning
+* [Killian Weinberger's machine learning lectures](https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/videos) courtesy of Simon
+* [Andreas C. Müller's applied machine learning course](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) - Spring 2020 
 
 ## Talks
 <ul>
@@ -25,9 +39,10 @@ Monday, November, 8th, 4pm - 5:15pm GMT</li>
 ## Twitter Accounts
 
 
-## YouTube Accounts and Channels
+## General YouTube Accounts and Channels
 <ul>
  <li>GeostatsGuy - https://www.youtube.com/c/GeostatsGuyLectures - may be useful for those with a physical sciences background but he's also got some good general ML and DS tutorials</li>
+ 
   </ul>
 
 ## Meet-up Groups

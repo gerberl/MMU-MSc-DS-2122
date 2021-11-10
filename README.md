@@ -40,6 +40,8 @@ Monday, November, 8th, 4pm - 5:15pm GMT</li>
 
 ## Twitter Accounts
 
+* [Sebastian Raschka @rasbt](https://twitter.com/rasbt?s=20): "Author of the 'Python Machine Learning' book. Tweet about Python, deep learning research, open source. Asst Prof of Statistics @UWMadison. Opinions are my own."
+
 
 ## General YouTube Accounts and Channels
 <ul>

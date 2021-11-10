@@ -35,6 +35,8 @@ Monday, November, 8th, 4pm - 5:15pm GMT</li>
 
 ## Newsletters
 
+* [KDD Nuggets](https://www.kdnuggets.com/)
+
 
 ## Twitter Accounts
 

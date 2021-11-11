@@ -35,6 +35,7 @@ Everyone is encouraged to contribute and gain some basic familiarity with the Gi
 * [Financial Times' Visual Vocabulary](https://github.com/Financial-Times/chart-doctor/blob/main/visual-vocabulary/FT4schools_RGS.pdf) also [easier to read format](https://ft-interactive.github.io/visual-vocabulary/) shows types of graphs split into categories by meaning.
 * [BBC Visual and Data Journalism Cookbook](https://bbc.github.io/rcookbook/#how_to_create_bbc_style_graphics) and [Medium article](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) - how to create BBC-level graphs in R
 * [Python Chart Gallery](https://www.python-graph-gallery.com/all-charts/): I've come across this a couple of times and it could be useful for a quick check of the code needed for producing a particular type of graph, specially those that might involve customisation. Not sure about the quality/consistency, but it looked fine at a first glance.
+* [Python Tools for Data Visualisation `pyviz.org/`](https://pyviz.org/): "The PyViz.org website is an open platform for helping users decide on the best open-source (OSS) Python data visualization tools for their purposes, with links, overviews, comparisons, and examples."
 
 
 ### Machine learning

@@ -2,7 +2,17 @@
 
 Shared repository of resources, data, articles, good practice, recommendations, and so on, for all those taking part in MSc Data Science 21/22 at MMU.
 
+## How to contribute
+Everyone is encouraged to contribute and gain some basic familiarity with the GitHub/git processes.
+1. Start by [forking this repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks).
+2. You can then edit the README.md (here's a [markdown guide](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)) or add new files.
+3. Once you have made your changes, use this guide to [create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for review.
+4. After your changes are reviewed and integrated with the repository, you will show up as a contributor!
+
+(Optional) You can also do the above in the command line. If you want to try it out, you can [start here](https://docs.github.com/en/get-started/quickstart/set-up-git).
+
 ## Resources by topic
+### Google Colab
 <ul>
  <li><a href="https://www.youtube.com/watch?v=inN8seMm7UI">Introduction to Google Colab</a></li>
  <li><a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">Overview of Collaboratory Features</a></li>

@@ -42,6 +42,7 @@ Everyone is encouraged to contribute and gain some basic familiarity with the Gi
 * [Killian Weinberger's machine learning lectures](https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/videos) courtesy of Simon
 * [Andreas C. Müller's applied machine learning course](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) - Spring 2020 
 * [SciKit-Learn Machine Learning Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html), a resource to help you choose the right estimator for your data
+* [List of datasets for ML research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) - Wikipedia's depository of datasets which can be used when learning ML split by field
 
 ## Talks
 <ul>

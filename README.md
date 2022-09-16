@@ -19,6 +19,22 @@ Everyone is encouraged to contribute and gain some basic familiarity with the Gi
  <li><a href="https://colab.research.google.com/notebooks/markdown_guide.ipynb">Markdown Guide</a></li>
 </ul>
 
+### Free tools and resources to learn Python
+<ul>
+In addition to <a href="https://www.datacamp.com/">DataCamp</a></li> - wait for Luciano's link - there's lots of free resources for learning python.
+ <li><a href="https://www.python.org/">Python.org</a></li>
+ <li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li>
+ <li><a href="https://www.learnpython.org/">Learnpython.org</a></li>
+ <li><a href="https://www.edx.org/"> edX</a></li>
+ <li><a href="https://developers.google.com/edu/python">Google's Python Class</a></li>
+ <li><a href="https://www.linkedin.com/learning/">LinkedIn Learning</a>, e.g<a href="https://www.linkedin.com/learning/python-essential-training-14898805?replacementOf=python-essential-training-2018">Python Essential Training</a></li>
+ <li><a href="https://docs.microsoft.com/en-us/training/modules/intro-to-python/">Microsoft Learning Modules</a></li>
+ <li><a href="https://www.simplilearn.com/">Simplilearn</a>, e.g<a href="https://www.simplilearn.com/tutorials/python-tutorial"> Python Tutorial for Beginners</a></li>
+ <li><a href="https://www.sololearn.com/home">SoloLearn</a></li>
+ <li><a href="https://www.tutorialspoint.com/index.htm">Tutorials Point</a>, e.g<a href="https://www.tutorialspoint.com/python/index.htm"> Python Tutorial</a></li>
+ <li><a href="https://www.w3schools.com/">W3Schools</a>, e.g<a href="https://www.w3schools.com/python/default.asp"> Python Tutorial</a></li>
+</ul>
+
 ### Computer science
 * [CS50x](https://cs50.harvard.edu/x/2021/) Harvard's introduction to computer science free online course; this is the exact same module they teach at Harvard, fantastic resource for filling in gaps in basic programming concepts.
 
@@ -37,16 +53,14 @@ Everyone is encouraged to contribute and gain some basic familiarity with the Gi
 * [Python Chart Gallery](https://www.python-graph-gallery.com/all-charts/): I've come across this a couple of times and it could be useful for a quick check of the code needed for producing a particular type of graph, specially those that might involve customisation. Not sure about the quality/consistency, but it looked fine at a first glance.
 * [Python Tools for Data Visualisation `pyviz.org/`](https://pyviz.org/): "The PyViz.org website is an open platform for helping users decide on the best open-source (OSS) Python data visualization tools for their purposes, with links, overviews, comparisons, and examples."
 
-
 ### Machine learning
-* [Killian Weinberger's machine learning lectures](https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/videos) courtesy of Simon
+* [Killian Weinberger's machine learning lectures](https://www.youtube.com/channel/UC7p_I0qxYZP94vhesuLAWNA/videos)
 * [Andreas C. Müller's applied machine learning course](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/) - Spring 2020 
 * [SciKit-Learn Machine Learning Map](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html), a resource to help you choose the right estimator for your data
 * [List of datasets for ML research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research) - Wikipedia's depository of datasets which can be used when learning ML split by field
 
 ## Talks
 <ul>
- <li><a href="https://www.rss.org.uk/training-events/events/careers-in-statistics-female-experiences-of-a-care/#eventoverview">Careers in Statistics: Female experiences of a career in data</a> - Monday, November, 8th, 12pm - 1pm GMT</li>
   <li><a href="https://www.datacamp.com/live/lca-portfolio-via-workspace">DataCamp webinar - Live code-along: How a data science portfolio can help you land your dream job</a> - Monday, November, 8th, 4pm - 5:15pm GMT <a href="https://www.youtube.com/watch?v=7_VIjcFKHZo"><b>Recording of the session</a></b></li>
   </ul>
 
@@ -81,9 +95,8 @@ Everyone is encouraged to contribute and gain some basic familiarity with the Gi
 I've tried to include groups that are currently active, i.e. groups with upcoming events.
 
 <ul>
-  <li><a href="https://www.meetup.com/Data-Science-Festival-Manchester/">Data Science Festival - Manchester</a> - a month of free virtual events starting Nov 1st 2021</li>
   <li><a href="https://www.meetup.com/BigDataManchester/">Big Data Manchester</a> - for anyone interested in Big Data</li>
-  <li><a href="https://www.meetup.com/mini-hack/events/280072661">MiniHack 13</a> - a monthly meetup where teams of between 3 and 6 people compete to produce the best solution to a problem</li>
+  <li><a href="https://www.meetup.com/mini-hack/">MiniHack 13</a> - a monthly meetup where teams of between 3 and 6 people compete to produce the best solution to a problem</li>
 </ul>
 
 
